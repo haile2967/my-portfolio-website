@@ -555,6 +555,13 @@ footer {
         display: block;
     }
     
+    .hero {
+        height: auto;
+        min-height: 100vh;
+        padding-top: 120px;
+        padding-bottom: 60px;
+    }
+    
     .hero-grid {
         grid-template-columns: 1fr;
         text-align: center;
